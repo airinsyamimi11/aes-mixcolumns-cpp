@@ -47,7 +47,7 @@ aes-mixcolumns-cpp/
 
 Compile the program on AES-MixColumns-Implementation terminal using g++:
 
-bash
+bash >>
 g++ MixColumns.cpp -o mixcolumns
 
 
@@ -55,13 +55,13 @@ g++ MixColumns.cpp -o mixcolumns
 
 Run the executable:
 
-bash
+bash >>
 ./mixcolumns
 
 
 or on Windows:
 
-bash
+bash >>
 .\mixcolumns
 
 
@@ -69,7 +69,7 @@ bash
 
 ## Example Input
 
-text
+text >>
 D4BF5D30E0B452AEB84111F11E2798E5
 
 
