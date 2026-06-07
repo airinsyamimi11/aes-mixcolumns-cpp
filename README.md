@@ -31,7 +31,7 @@ The program accepts a 128-bit hexadecimal input, converts it into a 4×4 AES sta
 
 ## Project Structure
 
-AES-MixColumns-Implementation/
+aes-mixcolumns-cpp/
 
 ├── Q11_MixColumns.cpp
 
